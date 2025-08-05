@@ -43,7 +43,6 @@ import {
   LocationOn,
   Event,
   Note,
-  Star,
   LocalShipping
 } from '@mui/icons-material';
 import Stack from '@mui/material/Stack';
@@ -498,5 +497,6 @@ const CustomersTab = ({
     </Box>
   );
 };
+
 
 export default CustomersTab;
