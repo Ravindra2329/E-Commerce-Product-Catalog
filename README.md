@@ -121,28 +121,28 @@ The app will be running at **`http://localhost:3000/`**
 ## 📸 Screenshot
 
 ### 🏠 Home / Products
-![Home Page](src/assets/screenshot/home.png)
+![Home Page](src/assets/Screenshot/home.png)
 
 ### ❤️ Wishlist
-![Wishlist](src/assets/screenshot/wishlist.png)
+![Wishlist](src/assets/Screenshot/wishlist.png)
 
 ### 🛒 Cart
-![Cart](src/assets/screenshot/cart.png)
+![Cart](src/assets/Screenshot/cart.png)
 
 ### 👤 Profile
-![Profile](src/assets/screenshot/profile.png)
+![Profile](src/assets/Screenshot/profile.png)
 
 ### ✅ Order Confirmation
-![Order Confirmation](src/assets/screenshot/order_confirmation.png)
+![Order Confirmation](src/assets/Screenshot/order_confirmation.png)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](src/assets/screenshot/admin_dashboard.png)
+![Admin Dashboard](src/assets/Screenshot/admin_dashboard.png)
 
 ### 🔐 Login
-![Login](src/assets/screenshot/login.png)
+![Login](src/assets/Screenshot/login.png)
 
 ### 📝 Register
-![Register](src/assets/screenshot/register.png)
+![Register](src/assets/Screenshot/register.png)
 
 ---
 
