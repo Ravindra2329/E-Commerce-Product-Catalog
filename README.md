@@ -118,34 +118,34 @@ The app will be running at **`http://localhost:3000/`**
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> Store your screenshots in  
-> `src/assets/screenshots/` before pushing to GitHub.
+> Store your screenshot in  
+> `src/assets/screenshot/` before pushing to GitHub.
 
 ### 🏠 Home / Products
-![Home Page](src/assets/screenshots/home.png)
+![Home Page](src/assets/screenshot/home.png)
 
 ### ❤️ Wishlist
-![Wishlist](src/assets/screenshots/wishlist.png)
+![Wishlist](src/assets/screenshot/wishlist.png)
 
 ### 🛒 Cart
-![Cart](src/assets/screenshots/cart.png)
+![Cart](src/assets/screenshot/cart.png)
 
 ### 👤 Profile
-![Profile](src/assets/screenshots/profile.png)
+![Profile](src/assets/screenshot/profile.png)
 
 ### ✅ Order Confirmation
-![Order Confirmation](src/assets/screenshots/order_confirmation.png)
+![Order Confirmation](src/assets/screenshot/order_confirmation.png)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](src/assets/screenshots/admin_dashboard.png)
+![Admin Dashboard](src/assets/screenshot/admin_dashboard.png)
 
 ### 🔐 Login
-![Login](src/assets/screenshots/login.png)
+![Login](src/assets/screenshot/login.png)
 
 ### 📝 Register
-![Register](src/assets/screenshots/register.png)
+![Register](src/assets/screenshot/register.png)
 
 ---
 
