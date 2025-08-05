@@ -30,7 +30,7 @@ import {
   Save,
   Search,
   FilterList,
-  AttachMoney
+  
 } from '@mui/icons-material';
 import Divider from '@mui/material/Divider';
 import Cancel from '@mui/icons-material/Cancel';
@@ -316,5 +316,6 @@ const OrdersTab = ({
     </Box>
   );
 };
+
 
 export default OrdersTab;
