@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Typography, Avatar } from '@mui/material';
+import { Box, Typography } from '@mui/material';
 import Card from '@mui/material/Card';
 
 const StatCard = ({ icon, title, value, color, trend }) => (
@@ -42,3 +42,4 @@ const StatCard = ({ icon, title, value, color, trend }) => (
 );
 
 export default StatCard;
+
