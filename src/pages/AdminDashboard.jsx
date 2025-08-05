@@ -29,7 +29,7 @@ import {
 import ProductsTab from './ProductsTab';
 import OrdersTab from './OrdersTab';
 import CustomersTab from './CustomersTab';
-import StatCard from '../components/StatCard ';
+import StatCard from '../components/StatCard';
 import AttachMoney from '@mui/icons-material/AttachMoney';
 
 const AdminDashboard = () => {
