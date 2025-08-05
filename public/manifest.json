@@ -1,0 +1,46 @@
+{
+  "short_name": "ShopEase",
+  "name": "ShopEase - Smart Shopping Made Simple",
+  "description": "Your one-stop shop for seamless online shopping experience",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/shopease-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/shopease-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "splash_pages": null,
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "categories": ["shopping", "ecommerce"],
+  "shortcuts": [
+    {
+      "name": "New Arrivals",
+      "url": "/new-arrivals",
+      "description": "View our latest products"
+    },
+    {
+      "name": "My Cart",
+      "url": "/cart",
+      "description": "View your shopping cart"
+    }
+  ]
+}
