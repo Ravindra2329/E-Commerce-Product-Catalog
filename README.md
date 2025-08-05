@@ -118,33 +118,34 @@ The app will be running at **`http://localhost:3000/`**
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-### 🏠 Home / Products Page
-![Home Page](src/assets/screenshot/home.png)
+> Store your screenshots in  
+> `src/assets/screenshots/` before pushing to GitHub.
 
-### ❤️ Wishlist Page
-![Wishlist](src/assets/screenshot/wishlist.png)
+### 🏠 Home / Products
+![Home Page](src/assets/screenshots/home.png)
 
-### 🛒 Shopping Cart
-![Cart](src/assets/screenshot/cart.png)
+### ❤️ Wishlist
+![Wishlist](src/assets/screenshots/wishlist.png)
 
-### 👤 My Profile
-![Profile](src/assets/screenshot/profile.png)
+### 🛒 Cart
+![Cart](src/assets/screenshots/cart.png)
+
+### 👤 Profile
+![Profile](src/assets/screenshots/profile.png)
 
 ### ✅ Order Confirmation
-![Order Confirmation](src/assets/screenshot/order_confirmation.png)
+![Order Confirmation](src/assets/screenshots/order_confirmation.png)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](src/assets/screenshot/admin_dashboard.png)
+![Admin Dashboard](src/assets/screenshots/admin_dashboard.png)
 
-### 🔐 Login Page
-![Login](src/assets/screenshot/login.png)
+### 🔐 Login
+![Login](src/assets/screenshots/login.png)
 
-### 📝 Register Page
-![Register](src/assets/screenshot/register.png)
-
-
+### 📝 Register
+![Register](src/assets/screenshots/register.png)
 
 ---
 
