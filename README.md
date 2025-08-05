@@ -96,7 +96,7 @@ ecommerce-website/
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/ecommerce-website.git
+git clone https://github.com/Ravindra2329/ecommerce-website.git
 ```
 
 2️⃣ **Navigate to the project folder**
@@ -119,9 +119,6 @@ The app will be running at **`http://localhost:3000/`**
 ---
 
 ## 📸 Screenshot
-
-> Store your screenshot in  
-> `src/assets/screenshot/` before pushing to GitHub.
 
 ### 🏠 Home / Products
 ![Home Page](src/assets/screenshot/home.png)
