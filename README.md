@@ -118,7 +118,7 @@ The app will be running at **`http://localhost:3000/`**
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### 🏠 Home / Products Page
 ![Home Page](src/assets/screenshot/home.png)
