@@ -2,7 +2,6 @@ import React from 'react';
 import {
   Container,
   Typography,
-  Box,
   Paper,
   List,
   ListItem,
@@ -103,5 +102,6 @@ const TermsOfService = () => {
     </Container>
   );
 };
+
 
 export default TermsOfService;
