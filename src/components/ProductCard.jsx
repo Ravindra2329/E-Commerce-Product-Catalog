@@ -17,7 +17,7 @@ import {
   Snackbar,
   Alert,
   CircularProgress,
-  Badge
+  
 } from '@mui/material';
 import { 
   Favorite, 
@@ -34,7 +34,7 @@ const ProductCard = ({ product, }) => {
     addToWishlist, 
     removeFromWishlist, 
     isInWishlist,
-    wishlistCount
+    
   } = useWishlist();
   const [isCartLoading, setIsCartLoading] = useState(false);
   const [isWishlistLoading, setIsWishlistLoading] = useState(false);
